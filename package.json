@@ -17,24 +17,24 @@
   "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
   "homepage": "https://github.com/photonstorm/phaser3-project-template#readme",
   "devDependencies": {
-    "@babel/core": "^7.7.2",
-    "@babel/preset-env": "^7.7.1",
-    "babel-loader": "^8.0.6",
-    "clean-webpack-plugin": "^3.0.0",
-    "css-loader": "^3.6.0",
-    "file-loader": "^4.2.0",
-    "html-webpack-plugin": "^3.2.0",
-    "raw-loader": "^3.1.0",
-    "style-loader": "^1.2.1",
-    "terser-webpack-plugin": "^2.2.1",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.9.0",
-    "webpack-merge": "^4.2.2"
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "babel-loader": "latest",
+    "clean-webpack-plugin": "latest",
+    "css-loader": "latest",
+    "file-loader": "latest",
+    "html-webpack-plugin": "latest",
+    "raw-loader": "latest",
+    "style-loader": "latest",
+    "terser-webpack-plugin": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest",
+    "webpack-dev-server": "latest",
+    "webpack-merge": "latest"
   },
   "dependencies": {
-    "phaser": "^3.24.1",
-    "phaser3-rex-plugins": "^1.1.26",
-    "uuid": "^8.3.0"
+    "phaser": "latest",
+    "phaser3-rex-plugins": "latest",
+    "uuid": "latest"
   }
 }
